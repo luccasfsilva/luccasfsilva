@@ -1,4 +1,4 @@
-👋 Olá! Sou Lucas, um estudante de ´´´Análise e Desenvolvimento de Sistemas.´´´
+👋 Olá! Sou Lucas, um estudante de $Análise e Desenvolvimento de Sistemas.
 🎨 Trabalho com ilustração e motion design.
 💻 Estou aprendendo a programar e sempre em busca de novos desafios!
 🌱 Atualmente, estou explorando HTML, CSS, Javascript.
