@@ -9,7 +9,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript Ícone" width="30" height="30">
 </p>
 
-
+##
+<div>
+  <a href="https://www.behance.net/lucasfernandes170" target="_black"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" 
+ target="_black"></a>
+</div>
 
 - 📫 Você pode me encontrar em [lukasfernandessilva05@gmail.com](mailto:lukasfernandessilva05@gmail.com) ou no [linkedin](https://www.linkedin.com/in/fernandes-luccas/).
 
