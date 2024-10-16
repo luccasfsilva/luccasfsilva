@@ -20,6 +20,5 @@
   <a href="https://www.linkedin.com/in/fernandes-luccas/" target="_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
  target="_black"></a>
 </div>
-
-
-
+<div>
+  
