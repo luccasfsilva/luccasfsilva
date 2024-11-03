@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/93/de/f6/93def6964d887005431cb95589c5ae3d.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://i.pinimg.com/originals/cc/f4/e0/ccf4e0bf8f1fb1ca0e2a8ff664bf4c17.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 - 👋 Olá! Sou Lucas, um estudante de ```Análise e Desenvolvimento de Sistemas.```
 - 🎨 Atuo como freelancer com ilustração e motion design.
