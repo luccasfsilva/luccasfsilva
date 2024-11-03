@@ -4,7 +4,7 @@
 - 🎨 Atuo como freelancer com ilustração e motion design.
 - 💻 Estou aprendendo a programar e sempre em busca de novos desafios!
 - 🌱 Atualmente, estou explorando ```HTML, CSS e JavaScript.```
-- 📫 Você pode me encontrar 
+ 
 
 
 
@@ -16,6 +16,7 @@
 
 
 ##
+- 📫 Você pode me encontrar
 <div>
   <a href="https://www.behance.net/lucasfernandes170" target="_black"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" 
  target="_black"></a>
