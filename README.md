@@ -1,6 +1,5 @@
-<div
-<img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right" style="border-radius: 50%;">
-/div>
+<img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="imagem" min-width="40px" max-width="200px" width="400px" align="right" style="border-radius: 100%;">
+
  
 - 👋 Olá! Sou Lucas, um estudante de ```Análise e Desenvolvimento de Sistemas.```
 - 🎨 Atuo como freelancer com ilustração e motion design.
