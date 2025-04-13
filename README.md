@@ -30,7 +30,6 @@
 <div>
   
 <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="imagem" min-width="0px" width="400px" align="right" style="border-radius: 15%;">
-###
 
 ##
 
