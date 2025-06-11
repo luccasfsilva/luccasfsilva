@@ -15,6 +15,8 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://img.icons8.com/?size=512&id=40670&format=png" alt="CSS"/></code>
+<code><img height="32" src="[https://img.icons8.com/?size=512&id=40670&format=png](https://w7.pngwing.com/pngs/548/330/png-transparent-sqlite-hd-logo.png)" alt="CSS"/></code>
+<code><img height="32" src="https://static-00.iconduck.com/assets.00/mongodb-icon-256x253-1b777a0s.png" alt="CSS"/></code>
 
 
 ##
