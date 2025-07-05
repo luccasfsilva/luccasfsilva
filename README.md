@@ -17,7 +17,6 @@
 <code><img height="32" src="https://img.icons8.com/?size=512&id=40670&format=png" alt="CSS"/></code>
 <code><img height="32" src="https://images.icon-icons.com/2699/PNG/512/sqlite_logo_icon_169724.png" alt="CSS"/></code>
 <code><img height="32" src="https://static-00.iconduck.com/assets.00/mongodb-icon-256x253-1b777a0s.png" alt="CSS"/></code>
-<code><img height="32" src="https://w7.pngwing.com/pngs/140/948/png-transparent-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-text-thumbnail.png" alt="CSS"/></code>
 
 
 ##
