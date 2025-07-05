@@ -14,10 +14,10 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://github.com/github/explore/blob/main/topics/python/python.png?raw=true" alt="CSS"/></code>
 <code><img height="32" src="hhttps://www.cms.dtidigital.com.br/wp-content/uploads/2021/03/Graficos-em-python-1.png" alt="CSS"/></code>
 <code><img height="32" src="https://images.icon-icons.com/2699/PNG/512/sqlite_logo_icon_169724.png" alt="CSS"/></code>
 <code><img height="32" src="https://static-00.iconduck.com/assets.00/mongodb-icon-256x253-1b777a0s.png" alt="CSS"/></code>
+<code><img height="32" src="https://github.com/github/explore/blob/main/topics/python/python.png?raw=true" alt="CSS"/></code>
 
 
 
