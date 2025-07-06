@@ -14,9 +14,9 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://github.com/mongodb/mongo/raw/master/docs/leaf.svg" alt="mongo"/></code>
-<code><img height="32" src="https://images.icon-icons.com/2699/PNG/512/sqlite_logo_icon_169724.png" alt="sql"/></code>
-<code><img height="32" src="https://github.com/github/explore/blob/main/topics/python/python.png?raw=true" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/mongodb/mongo/raw/master/docs/leaf.svg" alt="mongo"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/2699/PNG/512/sqlite_logo_icon_169724.png" alt="sql"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/python/python.png?raw=true" alt="CSS"/></code>
 
 
 
