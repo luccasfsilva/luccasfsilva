@@ -24,7 +24,9 @@
 
 
 
-##- 📫 Você pode me encontrar
+##
+
+- 📫 Você pode me encontrar
 <div>
   <a href="https://www.behance.net/lucasfernandes170" target="_black"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" 
  target="_black"></a>
