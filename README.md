@@ -9,8 +9,7 @@
 
 
 
-## 
-🚀 Minhas Skills
+## 🚀 Minhas Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
@@ -20,8 +19,7 @@
 
 
 
-##
-- 📫 Você pode me encontrar
+##- 📫 Você pode me encontrar
 <div>
   <a href="https://www.behance.net/lucasfernandes170" target="_black"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" 
  target="_black"></a>
