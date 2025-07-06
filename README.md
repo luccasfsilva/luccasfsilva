@@ -12,12 +12,12 @@
 ## 🚀 Minhas Skills
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" style="height:32px; margin-right:40px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" alt="JavaScript" style="height:32px; margin-right:40px;">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" style="height:32px; margin-right:40px;">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" style="height:32px; margin-right:40px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" style="height:32px; margin-right:40px;">
-  <img src="https://github.com/mongodb/mongo/raw/master/docs/leaf.svg" alt="Mongo" style="height:32px; margin-right:40px;">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" style="height:38px; margin-right:40px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" alt="JavaScript" style="height:38px; margin-right:40px;">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" style="height:38px; margin-right:40px;">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" style="height:38px; margin-right:40px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" style="height:38px; margin-right:40px;">
+  <img src="https://github.com/mongodb/mongo/raw/master/docs/leaf.svg" alt="Mongo" style="height:38px; margin-right:40px;">
 </p>
 
 
