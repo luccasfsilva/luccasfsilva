@@ -16,6 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" alt="JavaScript" style="height:38px; margin-right:40px;">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" style="height:38px; margin-right:40px;">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" style="height:38px; margin-right:40px;">
+  <img src="https://w1.pngwing.com/pngs/1002/616/png-transparent-python-logo-programming-language-computer-programming-professional-python-highlevel-programming-language-scripting-language-data-type-php.png" alt="python" style="height:38px; margin-right:40px;">
   <img src="https://github.com/mongodb/mongo/raw/master/docs/leaf.svg" alt="Mongo" style="height:38px; margin-right:40px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" style="height:38px; margin-right:40px;">
 </p>
