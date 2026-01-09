@@ -4,7 +4,7 @@
 - 👋 Olá! Sou Lucas, um estudante de ```Análise e Desenvolvimento de Sistemas.```
 - 🎨 Atuo como freelancer com ilustração e motion design.
 - 💻 Estou aprendendo a programar e sempre em busca de novos desafios!
-- 🌱 Atualmente, estou explorando ```HTML, CSS e JavaScript.```
+- 🌱 Atualmente, estou explorando ```Python, HTML, CSS e JavaScript.```
  
 
 
