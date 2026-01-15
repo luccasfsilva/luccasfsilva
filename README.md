@@ -1,11 +1,9 @@
 
+ - 👋 Olá! Sou Lucas, estudante de ```Análise e Desenvolvimento de Sistemas.```.
+- 💻 Desenvolvedor em formação, com foco em **desenvolvimento de software e aplicações web**.
+- 🚀 Tenho experiência prática com projetos utilizando ```Python, HTML, CSS e JavaScript.```.
+- 🌱 Em constante aprendizado, buscando aprimorar lógica de programação, boas práticas e novas tecnologias.
 
- 
-- 👋 Olá! Sou Lucas, um estudante de ```Análise e Desenvolvimento de Sistemas.```
-- 🎨 Atuo como freelancer com ilustração e motion design.
-- 💻 Estou aprendendo a programar e sempre em busca de novos desafios!
-- 🌱 Atualmente, estou explorando ```Python, HTML, CSS e JavaScript.```
- 
 
 
 
