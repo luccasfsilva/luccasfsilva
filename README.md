@@ -1,7 +1,7 @@
 
- - 👋 Olá! Sou Lucas, estudante de ```Análise e Desenvolvimento de Sistemas.```.
+- 👋 Olá! Sou Lucas, estudante de ```Análise e Desenvolvimento de Sistemas.```
 - 💻 Desenvolvedor em formação, com foco em **desenvolvimento de software e aplicações web**.
-- 🚀 Tenho experiência prática com projetos utilizando ```Python, HTML, CSS e JavaScript.```.
+- 🚀 Tenho experiência prática com projetos utilizando ```Python``` ```HTML``` ``` CSS``` e ```JavaScript.```
 - 🌱 Em constante aprendizado, buscando aprimorar lógica de programação, boas práticas e novas tecnologias.
 
 
