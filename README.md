@@ -10,7 +10,7 @@
 ## 🚀 Minhas Skills
 
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,py,ts,mongodb,react,c,sqlite)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,py,ts,mongodb,react,c,sqlite,java)
 
 
 
