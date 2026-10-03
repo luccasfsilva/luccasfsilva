@@ -15,8 +15,14 @@
 
 
 
-
-
+##
+- 🤖 Ferramentas & IA's
+<div>
+  <img src="https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/DeepSeek-%235786FE.svg?style=for-the-badge&logo=deepseek&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white" target="_blank">
+  
+  
 ##
 
 - 📫 Você pode me encontrar
@@ -29,4 +35,5 @@
 <div>
   
 <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="imagem" min-width="0px" width="400px" align="right" style="border-radius: 15%;">
+
 
