@@ -4,8 +4,12 @@
 - 🚀 Tenho experiência prática com projetos utilizando ```Python``` ```HTML``` ``` CSS``` e ```JavaScript.```
 - 🌱 Em constante aprendizado, buscando aprimorar lógica de programação, boas práticas e novas tecnologias.
 
+**Python · JavaScript · React · SQL** | ReactJS · React Native · Linux · Git | Gemini API · Docker · SQLite
 
 
+<a href="https://github.com/luccas">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6725AC&width=435&lines=Python+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+SQL;ReactJS+%C2%B7+React+Native+%C2%B7+Linux+%C2%B7+Git;Gemini+API+%C2%B7+Docker+%C2%B7+SQLite" alt="Typing SVG" />
+</a>
 
 ## 🚀 Minhas Skills
 
@@ -33,6 +37,39 @@
  target="_black"></a>
 </div>
 <div>
+
+### 💡 What I'm Building
+
+```mermaid
+graph TB
+    A[💻 O Meu Ecossistema] --> B[Automação & IA]
+    A --> C[Desenvolvimento Web & Mobile]
+    A --> D[Banco de Dados & Dados]
+    A --> E[Infraestrutura & Ferramentas]
+
+    B --> B1[🐍 Python Automation]
+    B --> B2[🤖 Gemini AI APIs]
+    B --> B3[🎙️ OpenAI Whisper]
+
+    C --> C1[⚛️ ReactJS & React Native]
+    C --> C2[🌐 JavaScript ES6+]
+    C --> C3[🎨 HTML5 & CSS3]
+
+    D --> D1[🗄️ SQLite Database]
+    D --> D2[📊 Análise de Dados]
+    D --> D3[📦 NoSQL Concepts]
+
+    E --> E1[🐧 Linux / Ubuntu]
+    E --> E2[🐳 Docker & Compose]
+    E --> E3[⚡ Git, GitHub & Cursor]
+
+    style A fill:#9333EA,color:#fff
+    style B fill:#FF6B6B,color:#fff
+    style C fill:#4ECDC4,color:#fff
+    style D fill:#FFD93D,color:#000
+    style E fill:#1A1B27,color:#fff
+
+```
   
 <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="imagem" min-width="0px" width="400px" align="right" style="border-radius: 15%;">
 
