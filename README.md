@@ -38,7 +38,7 @@
 </div>
 <div>
 
-### 💡 What I'm Building
+### 💡 O que estou construindo
 
 ```mermaid
 graph TB
