@@ -8,8 +8,8 @@
 
 
 <a href="https://github.com/luccas">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6725AC&width=435&lines=Python+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+SQL;ReactJS+%C2%B7+React+Native+%C2%B7+Linux+%C2%B7+Git;Gemini+API+%C2%B7+Docker+%C2%B7+SQLite" alt="Typing SVG" />
-</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9A63FF&width=435&lines=Python+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+SQL;ReactJS+%C2%B7+React+Native+%C2%B7+Linux+%C2%B7+Git;Gemini+API+%C2%B7+Docker+%C2%B7+SQLite" alt="Typing SVG" />
+
 
 ## 🚀 Minhas Skills
 
