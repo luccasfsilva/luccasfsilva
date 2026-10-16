@@ -16,7 +16,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,py,ts,mongodb,react,c,sqlite,java)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasfsilva&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasfsilva&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&include_forks=true)
 
 
 ##
